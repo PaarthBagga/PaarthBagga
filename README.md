@@ -5,7 +5,7 @@
 
 <br>
 
-- 👨‍💻 I’m currently working on specializing in **Machine Learning**, **Data Analysis**, and **Artificial Intelligence!**. With a passion for all things related to data!
+- 👨‍💻 I’m currently working on specializing in **Machine Learning**, **Data Analysis**, and **Artificial Intelligence!**. With a passion for all things data!
 
 - 🔨 My favourite tools to work with include Python, SQL, Java, C, Excel, and PowerBi!
 
