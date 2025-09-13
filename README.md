@@ -1,7 +1,7 @@
 <h1 align="center">📸 About me</h1>
 <h3 align="center">Computer Science Student @ Wilfrid Laurier University</h3>
 
-👋 Hey, I'm **Paarth**! I'm a 3rd year Computer Science student at Wilfrid Laurier University and an outgoing entrepreneur, passionate about solving real world problems through clever solutions! 🚀
+👋 Hey, I'm **Paarth**! I'm a 4th year Computer Science student at Wilfrid Laurier University and an outgoing entrepreneur, passionate about solving real world problems through clever solutions! 🚀
 
 <br>
 
