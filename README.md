@@ -3,7 +3,7 @@
 
 <br>
 
-I'm a 4th year CS student, entrepreneur, and someone who's always building something — whether that's shipping production code, growing a brand, or figuring out how to use AI before everyone else does. 🤖
+I'm a 4th year CS student, entrepreneur, and someone who's always got something going on, whether that's writing code, growing a brand, or figuring out how to use AI before everyone else does. 🤖
 
 <br>
 
