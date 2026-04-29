@@ -3,15 +3,15 @@
 
 <br>
 
-Currently a **Software Developer Co-op on the Product Security team at Clio**, working on authentication infrastructure, identity systems, MFA enforcement, and AI-assisted security tooling for a platform serving tens of thousands of law firms.
+Currently a **Software Developer Co-op at Clio** in Toronto, building backend services, internal tooling, and AI-assisted developer workflows on the Product Security team.
 
-I'm someone who moves fast, takes ownership, and finds ways to apply new technology before it becomes obvious. Right now that means building with **LLMs, MCP integrations, and multi-agent workflows** as part of how I work day to day — not just as side projects.
+I move fast, take ownership, and find ways to apply new technology before it becomes obvious. Right now that means building with **LLMs, MCP integrations, and multi-agent workflows** as part of how I actually work — not just as side projects.
 
 <br>
 
-- 🔐 Working on **authentication, identity, and security infrastructure** at Clio (Product Security)
-- 🤖 Building **multi-agent AI workflows** using Claude Code, MCP, and git worktrees
-- 🛠️ Founder of **[Vision Twins](https://visiontwins.co/)** — a premium streetwear brand built around discipline and silent ambition
+- 💼 Software Developer Co-op @ **Clio** — Toronto
+- 🤖 Building **multi-agent AI workflows** with Claude Code and MCP integrations
+- 👕 Founder of **[Vision Twins](https://visiontwins.co/)** — a premium streetwear brand built around discipline and silent ambition
 - 💻 Current stack: **Ruby on Rails, JavaScript, Angular, MySQL, Redis, Python, AWS**
 - 📍 Toronto, ON
 
