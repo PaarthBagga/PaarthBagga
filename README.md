@@ -3,14 +3,18 @@
 
 <br>
 
-I'm a 4th year CS student, entrepreneur, and someone who's always building something. Whether it's pushing code, growing a brand, or finding a smarter way to work. I'm drawn to problems worth solving and I move fast to solve them.
+I'm a 4th year CS student, entrepreneur, and someone who's always building something. Whether it's pushing code, growing a brand, or finding a smarter way to work. I'm drawn to problems worth solving and I move fast to solve them. ⏩
 
 <br>
 
-- 🚀 Passionate about **software engineering, AI, and building things that actually get used**
-- 👕 Founder of **[Vision Twins](https://visiontwins.co/)** — a premium streetwear brand built around discipline and silent ambition
+- 🚀 I'm passionate about **software engineering, AI, and building things that actually get used**
+
 - 🤖 Fascinated by **AI and where it's taking software development**
+
 - 🥊 Outside of tech, you can find me training **Muay Thai or the gym, or practicing videography and photography**
+
+- 👕 Fun Fact, **[I have my own clothing brand startup!](https://visiontwins.co/)** 
+
 - 📍 Toronto, ON
 
 <br>
