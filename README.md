@@ -3,7 +3,7 @@
 
 <br>
 
-I'm a 4th year CS student, entrepreneur, and someone who's always building something. Whether it's pushing code, growing a brand, or finding a smarter way to work. I'm drawn to problems worth solving and I move fast to solve them. ⏩
+I'm a 4th year CS student, entrepreneur, and someone who's always building something. 📈
 
 <br>
 
