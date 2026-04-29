@@ -20,10 +20,9 @@ I'm a 4th year CS student, entrepreneur, and someone who's always building somet
 <br>
 
 <h3 align="left">✌️ Socials:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/paarth-bagga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://instagram.com/paarthb.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paarth-bagga)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/paarthb.__)
 
 <br>
 
